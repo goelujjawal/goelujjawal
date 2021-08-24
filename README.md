@@ -16,5 +16,6 @@ Here are some ideas to get you started:
 -->
  I'm a passionate learner that is always eager to gain more experience. Currently a B.Tech student in Computer Science at Raj Kumar Goel Institute of Technology, Ghaziabad.
  
-### Connect with me : 
-linkedin.com/in/ujjawal-goel-
+ - 🔭 I’m currently working on Machine Learning.
+ - 🌱 I’m currently learning Data Structures.
+ - 📫 How to reach me: ujjawalgoel55@gmail.com
