@@ -19,3 +19,5 @@ Here are some ideas to get you started:
  - 🔭 I’m currently working on Machine Learning.
  - 🌱 I’m currently learning Data Structures.
  - 📫 How to reach me: ujjawalgoel55@gmail.com
+
+<img src="https://github-readme-stats.vercel.app/api?username=goelujjawal&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
