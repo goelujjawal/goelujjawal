@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
- I'm a passionate learner that is always eager to gain more experience. Currently working as a System Engineer in Tata Consultancy Services (TCS).
+ I'm a passionate learner that is always eager to gain more experience. Currently working as a Python Developer in Tata Consultancy Services (TCS).
  
  - 🔭 I’m currently working on Machine Learning.
  - 🌱 I’m currently learning Data Structures.
